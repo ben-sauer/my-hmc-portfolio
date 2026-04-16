@@ -1,0 +1,17 @@
+---
+title: "My Portfolio"
+image: images/headshot.jpg #Make sure to match the file type!
+about:
+    template: jolla
+    links:
+     - icon: envelope-fill  
+       text: Email  
+       href: mailto:bsauer756@gmail.com   #Put your own Email Here!
+     - icon: linkedin    
+       text: LinkedIn    
+       href: https://www.linkedin.com/in/benjamin-sauer-engineering     #Put your own LinkedIn link here!
+     - icon: github    
+       text: Github      
+       href: https://github.com/ben-sauer #Put your own Github link here!
+---
+Hello! I am a mechanical engineering student interested in urban infrastructure and transportation. I have experience in data analysis, systems modeling, and internship experience in civil and physics fields. Here is a link to my [GitHub](https://github.com/ben-sauer/hsr-suspension-dynamics) where I have a project on high-speed rail suspension dynamics.
